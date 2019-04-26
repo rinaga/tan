@@ -1,0 +1,84 @@
+
+
+
+.cont{
+
+    margin-left: 10%;
+    margin-top: 3%;
+    margin-right: 10%;
+    border: 7px dotted white;
+    border-radius: 40px;
+    padding: 20px;
+    justify-content: space-between;
+    align-content: space-around;
+    text-align: center;
+    background-color: rgba(255,255,255,0.5)
+
+
+}
+
+
+
+.one{
+    content: url(r1.png);
+    width: 3em;
+    height: 3em;
+    margin: 0 2em 0 2em
+    
+}
+.one:checked{
+    content: url(r1c.png);
+    width: 3em;
+    height: 3em;
+    margin: 0 2em 0 2em
+    
+}
+
+.two{
+    content:url(r2.png);
+    width: 3em;
+    height: 3em;
+    margin: 0 2em 0 2em
+}
+.two:checked{
+    content:url(r2c.png);
+    width: 3em;
+    height: 3em;
+    margin: 0 2em 0 2em
+}
+.three{
+    content:url(r3.png);
+    width: 3em;
+    height: 3em;
+    margin: 0 2em 0 2em
+}
+.three:checked{
+    content:url(r4c.png);
+    width: 3em;
+    height: 3em;
+    margin: 0 2em 0 2em
+}
+.four{
+    content:url(r4.png);
+    width: 3em;
+    height: 3em;
+    margin: 0 2em 0 2em
+}
+.four:checked{
+    content:url(r3c.png);
+    width: 3em;
+    height: 3em;
+    margin: 0 2em 0 2em
+}
+.five{
+    content:url(r5.png);
+    width: 3em;
+    height: 3em; 
+    margin: 0 2em 0 2em
+}
+.five:checked{
+    content:url(r5c.png);
+    width: 3em;
+    height: 3em;
+    margin: 0 2em 0 2em
+}
